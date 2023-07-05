@@ -1,3 +1,7 @@
+# Engine-specific build subdirs
+bin/
+bin-int/
+
 ## OSX artifacts
 .DS_Store
 
